@@ -1,17 +1,47 @@
-![Animated greeting from Kritharth, a software developer exploring backend engineering and applied AI.](./banner.gif)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hello.png">
+  <img src="./banner.gif" width="960" alt="Hey, I’m Kritharth. Software developer exploring backend engineering and applied AI.">
+</picture>
+
+<img align="right" src="./assets/rooftop.png" width="28%" alt="A pixel-art rooftop coding studio in Bengaluru at dusk.">
 
 ## K Kritharth Kiran Nair
 
-I’m a software developer and MCA student at **PES University, Bengaluru**. I’ve built web projects with React, Python, and SQL. I enjoy working across the stack, but the backend is where I spend the most time. I like figuring out what an API should return, how to model the data behind it, and what happens when a request fails.
+**Software developer · MCA student at PES University, Bengaluru**
 
-### Tools I use
+I build web applications with Python, React, and SQL. My projects have taken me from the interface a user sees to the API and database behind it. Backend development is the part I enjoy most, especially designing APIs that stay easy to use as an application grows.
 
-- **Frontend:** React, TypeScript, JavaScript
-- **Backend:** Python, FastAPI, REST APIs
-- **Data:** SQL
+Outside coursework, I enjoy hackathons and the challenge of getting an idea working on a deadline.
 
-### What I’m exploring
+<br clear="all">
 
-I’m learning about system architecture, cloud deployment, and DevOps to understand what keeps an application running after it leaves my laptop. I’m also exploring machine learning and generative AI, especially how to tell whether a language model’s answer is reliable enough for a particular task.
+## Tools I build with
 
-I enjoy hackathons because they force a team to pick the most useful part of an idea and get it working on a deadline.
+**Frontend**
+
+![React, TypeScript, JavaScript](./assets/frontend.png)
+
+**Backend and data**
+
+![Python, FastAPI, REST APIs, SQL](./assets/backend.png)
+
+## What I’m exploring
+
+- **Backend and architecture** — API design, data modeling, and where business logic belongs as a project grows.
+- **Cloud and DevOps** — how applications are deployed and what it takes to keep them running.
+- **Applied AI** — machine learning, generative AI, and how to evaluate a language model’s output.
+
+## GitHub activity
+
+[![Contribution totals, active days, and streaks](./assets/activity.svg)](https://github.com/krxt-io?tab=overview)
+
+![A 3D skyline showing my daily GitHub contributions](./assets/skyline.svg)
+
+<details>
+<summary>Watch the contribution snake</summary>
+
+![An animated snake visiting active days on my contribution calendar](./assets/snake.svg)
+
+</details>
+
+[Browse my repositories](https://github.com/krxt-io?tab=repositories) · [View my GitHub activity](https://github.com/krxt-io?tab=overview)
