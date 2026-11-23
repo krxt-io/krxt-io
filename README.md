@@ -37,6 +37,8 @@ Outside coursework, I enjoy hackathons and the challenge of getting an idea work
 
 ![A 3D skyline showing my daily GitHub contributions](./assets/skyline.svg)
 
+REFERENCE TAKEN FROM wesleyruiz2005
+
 <details>
 <summary>Watch the contribution snake</summary>
 
