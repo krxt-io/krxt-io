@@ -5,11 +5,13 @@
 
 <img align="right" src="./assets/rooftop.png" width="28%" alt="A pixel-art rooftop coding studio in Bengaluru at dusk.">
 
-## K Kritharth Kiran Nair
+## Featured project
 
-I’m an MCA student at PES University in Bengaluru. I like building APIs and figuring out how to structure the data behind them.
+**DropBridge**
 
-I built [DropBridge](https://github.com/krxt-io/dropbridge) to send files straight from one browser to another without uploading them to a server.
+Send files between browsers over Wi-Fi. Pair with a password and transfer directly.
+
+[Try it live](https://dropbridge-lime.vercel.app/) · [Source code](https://github.com/krxt-io/dropbridge)
 
 <br clear="all">
 
