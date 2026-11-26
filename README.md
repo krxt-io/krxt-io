@@ -17,8 +17,6 @@ Outside coursework, I enjoy hackathons and the challenge of getting an idea work
 
 ## Tools I build with
 
-JavaScript · React · Node.js · Express · MongoDB · Git
-
 **Frontend**
 
 ![React, TypeScript, JavaScript](./assets/frontend.png)
@@ -26,6 +24,12 @@ JavaScript · React · Node.js · Express · MongoDB · Git
 **Backend and data**
 
 ![Python, FastAPI, REST APIs, SQL](./assets/backend.png)
+
+![Node.js](./assets/nodejs.svg) ![Express](./assets/express.svg) ![MongoDB](./assets/mongodb.svg)
+
+**Version control**
+
+![Git](./assets/git.svg)
 
 ## What I’m exploring
 

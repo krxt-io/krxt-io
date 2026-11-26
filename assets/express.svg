@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="46" viewBox="0 0 125 46">
+  <rect x="1" y="2" width="123" height="42" rx="7" fill="#231a2e" stroke="#654c7b" stroke-width="2"/>
+  <path d="M13 19h6v7h-6z" fill="#ddac72"/>
+  <text x="27" y="29" fill="#f0e6fc" font-family="DejaVu Sans Mono, monospace" font-size="19" font-weight="700">Express</text>
+</svg>
