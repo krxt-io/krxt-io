@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hello.png">
-  <img src="./banner.gif" width="960" alt="Hey, I’m Kritharth. Software developer exploring backend engineering and applied AI.">
+  <img src="./banner.gif" width="960" alt="Hey, I’m Kritharth. Software developer and open-source contributor.">
 </picture>
 
 <img align="right" src="./assets/rooftop.png" width="28%" alt="A pixel-art rooftop coding studio in Bengaluru at dusk.">
