@@ -7,11 +7,9 @@
 
 ## K Kritharth Kiran Nair
 
-**Software developer · MCA student at PES University, Bengaluru**
+I’m an MCA student at PES University in Bengaluru. I like building APIs and figuring out how to structure the data behind them.
 
-I build web applications with Python, React, and SQL. My projects have taken me from the interface a user sees to the API and database behind it. Backend development is the part I enjoy most, especially designing APIs that stay easy to use as an application grows.
-
-Outside coursework, I enjoy hackathons and the challenge of getting an idea working on a deadline.
+I built [DropBridge](https://github.com/krxt-io/dropbridge) to send files straight from one browser to another without uploading them to a server.
 
 <br clear="all">
 
