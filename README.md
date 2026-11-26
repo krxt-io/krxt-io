@@ -17,6 +17,8 @@ Outside coursework, I enjoy hackathons and the challenge of getting an idea work
 
 ## Tools I build with
 
+JavaScript · React · Node.js · Express · MongoDB · Git
+
 **Frontend**
 
 ![React, TypeScript, JavaScript](./assets/frontend.png)
