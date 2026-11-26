@@ -7,11 +7,9 @@
 
 ## Featured project
 
-**DropBridge**
+![DropBridge. Send files directly between browsers on the same Wi-Fi with one shared password.](./assets/dropbridge-panel.svg)
 
-Send files between browsers over Wi-Fi. Pair with a password and transfer directly.
-
-[Try it live](https://dropbridge-lime.vercel.app/) · [Source code](https://github.com/krxt-io/dropbridge)
+[![Launch DropBridge demo](./assets/dropbridge-demo.svg)](https://dropbridge-lime.vercel.app/) [![View DropBridge source](./assets/dropbridge-source.svg)](https://github.com/krxt-io/dropbridge)
 
 <br clear="all">
 

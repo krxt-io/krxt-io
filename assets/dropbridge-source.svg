@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="46" viewBox="0 0 160 46">
+  <rect x="2" y="5" width="156" height="40" rx="7" fill="#100b19" stroke="#654c7b"/>
+  <rect x="2" y="2" width="156" height="38" rx="7" fill="#231a2e" stroke="#654c7b" stroke-width="2"/>
+  <path d="M4 0 0 6l4 6 2-2-3-4 3-4z M11 0l-2 2 3 4-3 4 2 2 4-6z" transform="translate(14 15)" fill="#e8d6ff"/>
+  <text x="39" y="27" fill="#e8d6ff" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="16" font-weight="700">View source</text>
+</svg>

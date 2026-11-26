@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="46" viewBox="0 0 160 46">
+  <rect x="2" y="5" width="156" height="40" rx="7" fill="#100b19" stroke="#654c7b"/>
+  <rect x="2" y="2" width="156" height="38" rx="7" fill="#382638" stroke="#654c7b" stroke-width="2"/>
+  <path d="M0 0h3v2h3v2h3v4H6v2H3v2H0Z" transform="translate(14 15)" fill="#ffca91"/>
+  <text x="39" y="27" fill="#ffca91" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="16" font-weight="700">Launch demo</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="168" viewBox="0 0 550 168">
+  <rect x="1" y="1" width="548" height="166" rx="8" fill="#151021" stroke="#654c7b" stroke-width="2"/>
+  <path d="M9 2h532a7 7 0 0 1 7 7v28H2V9a7 7 0 0 1 7-7Z" fill="#231a2e"/>
+  <path d="M2 37h546" stroke="#654c7b"/>
+  <g font-family="Consolas, DejaVu Sans Mono, monospace">
+    <path d="M20 16h7v7h-7z" fill="#ddac72"/>
+    <text x="36" y="24" font-size="14" fill="#d4c0e7">~/projects/dropbridge</text>
+    <text x="20" y="83" font-size="36" font-weight="700" fill="#e8d6ff">DropBridge</text>
+    <text x="21" y="116" font-size="17" fill="#f0e6fc">Send files directly between browsers.</text>
+    <text x="21" y="143" font-size="15" fill="#d4c0e7">Same Wi-Fi. One shared password.</text>
+  </g>
+  <g fill="none" stroke-width="3" stroke-linejoin="miter">
+    <path d="M405 63h43v29h-43z M415 99h23 M426 92v7 M485 85h43v29h-43z M495 121h23 M506 114v7" stroke="#b694ef"/>
+    <path d="M451 77h21v22h11" stroke="#ddac72" stroke-dasharray="4 4"/>
+  </g>
+  <path d="M465 85h8v8h-8z" fill="#ddac72"/>
+</svg>
